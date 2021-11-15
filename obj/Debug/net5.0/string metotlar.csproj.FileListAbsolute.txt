@@ -1,0 +1,16 @@
+D:\yazılım\pratikler\string metotlar\bin\Debug\net5.0\string metotlar.exe
+D:\yazılım\pratikler\string metotlar\bin\Debug\net5.0\string metotlar.deps.json
+D:\yazılım\pratikler\string metotlar\bin\Debug\net5.0\string metotlar.runtimeconfig.json
+D:\yazılım\pratikler\string metotlar\bin\Debug\net5.0\string metotlar.runtimeconfig.dev.json
+D:\yazılım\pratikler\string metotlar\bin\Debug\net5.0\string metotlar.dll
+D:\yazılım\pratikler\string metotlar\bin\Debug\net5.0\ref\string metotlar.dll
+D:\yazılım\pratikler\string metotlar\bin\Debug\net5.0\string metotlar.pdb
+D:\yazılım\pratikler\string metotlar\obj\Debug\net5.0\string metotlar.csproj.AssemblyReference.cache
+D:\yazılım\pratikler\string metotlar\obj\Debug\net5.0\string metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\pratikler\string metotlar\obj\Debug\net5.0\string metotlar.AssemblyInfoInputs.cache
+D:\yazılım\pratikler\string metotlar\obj\Debug\net5.0\string metotlar.AssemblyInfo.cs
+D:\yazılım\pratikler\string metotlar\obj\Debug\net5.0\string metotlar.csproj.CoreCompileInputs.cache
+D:\yazılım\pratikler\string metotlar\obj\Debug\net5.0\string metotlar.dll
+D:\yazılım\pratikler\string metotlar\obj\Debug\net5.0\ref\string metotlar.dll
+D:\yazılım\pratikler\string metotlar\obj\Debug\net5.0\string metotlar.pdb
+D:\yazılım\pratikler\string metotlar\obj\Debug\net5.0\string metotlar.genruntimeconfig.cache
